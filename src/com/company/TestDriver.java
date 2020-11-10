@@ -7,8 +7,7 @@ public class TestDriver {
 
             public static void run (){
 
-                Lottery lottery = new Lottery(1);
-                lottery.toString();
+                Panel panel1 = new Panel(1);
 
             }
 
